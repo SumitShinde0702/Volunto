@@ -31,8 +31,8 @@ with one button but in the future, we can connect with Certifier's API and auto 
 
 To set up the Volunteer App, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/volunteer-app.git`
-2. Navigate to the project directory: `cd volunteer-app`
+1. Clone the repository: `git clone https://github.com/SumitShinde0702/Volunto.git`
+2. Navigate to the project directory: `cd Volunto`
 3. Install dependencies: `npm install` or `yarn install`
 
 ## Usage
