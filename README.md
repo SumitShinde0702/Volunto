@@ -1,3 +1,3 @@
 # Volunto
 
-Click on the file to get the full README.md
+Click on the "Volunto/volunto_final/volunto_final" to get the full README.md
